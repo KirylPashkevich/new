@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydL14KQYcmE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kirya\\Documents\\3 cource\\os\\lab19\\19\\project\\MyApp\\MyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirya\\.nuget\\packages\\mstest.analyzers\\3.11.0\\mstest.analyzers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Kirya\\.nuget\\packages\\mstest.testframework\\3.11.0\\mstest.testframework.3.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
